@@ -1,0 +1,9 @@
+Hocam çalışması için yapmanız gerekenler
+1. Klasörü Visueal Studio Code ile açtıktan sonra terminalimizi açıyoruz
+2. Terminalimize yazacaklarımız:
+	 npm install express
+	 node src/app.js
+
+
+
+
